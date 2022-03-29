@@ -2,7 +2,7 @@
 print("Hello, world!")
 print("Hello, world!")
 print("Captain's ship is gone!")
-print('Then she said: "You need to compile the code first."')
+print('She said: "In C you need to compile the source code first."')
 
 # Printing using variables
 first_name = 'Jack'
@@ -17,6 +17,7 @@ number_of_hats = 1
 print(rank + ' ' + first_name + ' ' + last_name + ' has only ' + str(number_of_hats) +' hat.')
 print("Our hero {} {} {} has only {} hat.".format(rank, first_name, last_name, number_of_hats))
 print("Our hero {3} {2} {1} has only {0} hat.".format(rank, first_name, last_name, number_of_hats))
+print(f"Our hero {rank} {first_name} {last_name} has only {number_of_hats} hat.")
 
 # Even more printing
 pi = 3.14159
