@@ -30,8 +30,5 @@ print(f"PI = {pi:.2f}")
 print(f"PI: {pi:15.2f}".format(pi))
 print(f"PI: {pi:10.4f}".format(pi))
 
-
-
 print()
 print("END OF THE LESSON".center(40, '-'))
-
