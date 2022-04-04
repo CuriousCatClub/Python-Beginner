@@ -1,6 +1,6 @@
 # Printing string constants
 print("Hello, world!")
-print("Hello, world!")
+print('Hello, world!')
 print("Captain's ship is gone!")
 print('She said: "In C you need to compile the source code first."')
 
@@ -10,7 +10,7 @@ last_name = 'Sparrow'
 rank = 'Captain'
 number_of_hats = 1
 
-# Below line is going to create an error - uncomment and run to chech this
+# Below line is going to create an error - uncomment and run to check it
 #print(rank + ' ' + first_name + ' ' + last_name + ' has only ' + number_of_hats +' hat.')
 
 # The below options will work :)
